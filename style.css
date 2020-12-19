@@ -1,0 +1,53 @@
+ body{
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+ .navbar .logo{
+	height: 140px;
+}
+
+.navbar-toggler .icon-bar {
+  margin: 7px;
+  display: block;
+  width: 22px;
+  height: 1px;
+  background-color: #cccccc;
+  border-radius: 1px;
+
+}
+.navbar{
+	margin-left: 5%;
+}
+.nav-link{
+	font-family: 'Varela Round', sans-serif;
+	font-size: 20px;
+	font-weight: 800;
+	font-style: normal;
+}
+
+header div ul li{
+	margin-left: 10%;
+}
+#footer-links{
+	list-style: none;
+	overflow: hidden;
+}
+#footer-links li a{
+	padding: 10px 50px;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	color: #000000;	
+	color: white;
+}
+#footer-links li{
+	text-align: center;
+}
+#footer{
+	padding: 10px;
+	background-color: black;
+}
+
+
+ 
+
